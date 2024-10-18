@@ -118,26 +118,26 @@ namespace _06_Arrays
             //    Console.WriteLine(citys[i]);
             //}
 
-            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
-            Console.WriteLine("Çift Sayılar");
-            for (int i = 0; i < numbers.Length; i++)
-            {
+            //int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
+            //Console.WriteLine("Çift Sayılar");
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
                 
-                if (numbers[i]%2 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
-            Console.WriteLine("Tek Sayılar");
+            //    if (numbers[i]%2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
+            //Console.WriteLine("Tek Sayılar");
 
-            for (int i = 0; i < numbers.Length; i++)
-            {
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
               
-                if (numbers[i] % 2 == 1)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
             #endregion
 
             Console.Read();

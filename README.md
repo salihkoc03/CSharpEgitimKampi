@@ -1,5 +1,6 @@
 💻 C# EĞİTİM KAMPI PROJELERİ 💻
 Bu repoda; Biz çok değerli hocam Murat YÜCEDAĞ'ın eğitimenliği eşliğinde başlamış olduğumuz C# yolculumuzun ilk adımlarılarını atarken, sizede öğrenmiş olduğumuz konuların ve yapmış olduğumuz uygulamaların detaylarını aşağıda bulabileceğiniz dipnoları bırakıyorum.
+
 ↘️ Ders 1 : Yazdırma Komutları
 Console.WriteLine(); yazdırma komutu ile ekrana yazı yazdırmayı öğrendim.
 ↘️ Ders 2 : Değişkenler
